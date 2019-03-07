@@ -1,2 +1,2 @@
-# zaneroberge.github.io
-My github.io site
+# ZaneRoberge.github.io
+Unit for web development project
